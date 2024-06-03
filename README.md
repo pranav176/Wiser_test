@@ -12,3 +12,9 @@ The model is then trained using the fit method, with early stopping implemented 
 Finally, the trained model is evaluated on the validation set to determine its performance, and the validation accuracy is printed. The model is also evaluated on a separate test set to assess its generalization capability on completely unseen data. The test accuracy is printed to give a final measure of the model’s effectiveness in emotion detection.
 
 The code is designed with clear documentation and modularity, making it easy to understand and execute. Instructions are provided for setting up dependencies, organizing the dataset, and running the training and evaluation scripts, ensuring that users can replicate the results without difficulty.
+
+Directions of Use:
+
+Clone the repository.
+Place the dataset in the appropriate directories (train, val, test).
+Run the training script python3 Wiser_Test.py.
