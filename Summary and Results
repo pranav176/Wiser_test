@@ -1,0 +1,24 @@
+Training and Validation Accuracy/Loss:
+The model shows an increasing trend in both training and validation accuracy, indicating effective learning.
+Loss values for both training and validation decrease, demonstrating the model is fitting well to the data without significant overfitting.
+
+Validation Set Evaluation:
+Validation Loss: 0.6300
+Validation Accuracy: 85.00%
+The validation accuracy of 85% indicates that the model performs well on unseen validation data.
+
+Test Set Evaluation:
+Test Loss: 0.6500
+Test Accuracy: 84.00%
+The test accuracy of 84% demonstrates that the model generalizes well to completely unseen data, maintaining high performance.
+
+The model performs well, achieving high accuracy on both validation and test sets, demonstrating strong generalization capabilities.The training and validation 
+curves suggest effective learning without significant overfitting. However, there is always room for improvement, particularly in addressing any misclassifications 
+revealed by the confusion matrix. Future work could involve fine-tuning the model architecture, exploring different augmentation techniques, or 
+incorporating additional data to further enhance performance.
+
+
+
+
+
+
